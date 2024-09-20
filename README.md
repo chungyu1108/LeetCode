@@ -95,8 +95,21 @@ A collection of LeetCode questions for my milestone
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/chungyu1108/LeetCode/tree/master/0020-valid-parentheses) |
+| [0214-shortest-palindrome](https://github.com/chungyu1108/LeetCode/tree/master/0214-shortest-palindrome) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/chungyu1108/LeetCode/tree/master/0020-valid-parentheses) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/chungyu1108/LeetCode/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/chungyu1108/LeetCode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/chungyu1108/LeetCode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
