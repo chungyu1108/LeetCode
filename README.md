@@ -19,11 +19,13 @@ A collection of LeetCode questions for my milestone
 | [0135-candy](https://github.com/chungyu1108/LeetCode/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/chungyu1108/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/chungyu1108/LeetCode/tree/master/0189-rotate-array) |
+| [1319-unique-number-of-occurrences](https://github.com/chungyu1108/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chungyu1108/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/chungyu1108/LeetCode/tree/master/0169-majority-element) |
+| [1319-unique-number-of-occurrences](https://github.com/chungyu1108/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
