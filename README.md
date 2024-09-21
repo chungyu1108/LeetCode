@@ -20,6 +20,7 @@ A collection of LeetCode questions for my milestone
 | [0169-majority-element](https://github.com/chungyu1108/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/chungyu1108/LeetCode/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/chungyu1108/LeetCode/tree/master/0274-h-index) |
+| [0380-insert-delete-getrandom-o1](https://github.com/chungyu1108/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1319-unique-number-of-occurrences](https://github.com/chungyu1108/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 ## Hash Table
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions for my milestone
 | [0001-two-sum](https://github.com/chungyu1108/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/chungyu1108/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/chungyu1108/LeetCode/tree/master/0169-majority-element) |
+| [0380-insert-delete-getrandom-o1](https://github.com/chungyu1108/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1319-unique-number-of-occurrences](https://github.com/chungyu1108/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 ## Two Pointers
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions for my milestone
 | [0002-add-two-numbers](https://github.com/chungyu1108/LeetCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/chungyu1108/LeetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/chungyu1108/LeetCode/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/chungyu1108/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -121,4 +124,12 @@ A collection of LeetCode questions for my milestone
 |  |
 | ------- |
 | [0274-h-index](https://github.com/chungyu1108/LeetCode/tree/master/0274-h-index) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/chungyu1108/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/chungyu1108/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
