@@ -139,4 +139,8 @@ A collection of LeetCode questions for my milestone
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/chungyu1108/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Database
+|  |
+| ------- |
+| [1974-find-customers-with-positive-revenue-this-year](https://github.com/chungyu1108/LeetCode/tree/master/1974-find-customers-with-positive-revenue-this-year) |
 <!---LeetCode Topics End-->
