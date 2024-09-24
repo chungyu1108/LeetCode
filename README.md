@@ -95,10 +95,12 @@ A collection of LeetCode questions for my milestone
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/chungyu1108/LeetCode/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/chungyu1108/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/chungyu1108/LeetCode/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/chungyu1108/LeetCode/tree/master/0206-reverse-linked-list) |
 ## String
 |  |
 | ------- |
