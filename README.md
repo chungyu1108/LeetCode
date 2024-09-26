@@ -22,6 +22,7 @@ A collection of LeetCode questions for my milestone
 | [0238-product-of-array-except-self](https://github.com/chungyu1108/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/chungyu1108/LeetCode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/chungyu1108/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0729-my-calendar-i](https://github.com/chungyu1108/LeetCode/tree/master/0729-my-calendar-i) |
 | [1319-unique-number-of-occurrences](https://github.com/chungyu1108/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 ## Hash Table
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions for my milestone
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/chungyu1108/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0729-my-calendar-i](https://github.com/chungyu1108/LeetCode/tree/master/0729-my-calendar-i) |
 ## Randomized
 |  |
 | ------- |
@@ -151,4 +153,16 @@ A collection of LeetCode questions for my milestone
 | [1749-sellers-with-no-sales](https://github.com/chungyu1108/LeetCode/tree/master/1749-sellers-with-no-sales) |
 | [1974-find-customers-with-positive-revenue-this-year](https://github.com/chungyu1108/LeetCode/tree/master/1974-find-customers-with-positive-revenue-this-year) |
 | [2024-calculate-special-bonus](https://github.com/chungyu1108/LeetCode/tree/master/2024-calculate-special-bonus) |
+## Binary Search
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/chungyu1108/LeetCode/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/chungyu1108/LeetCode/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/chungyu1108/LeetCode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
