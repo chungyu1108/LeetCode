@@ -144,6 +144,7 @@ A collection of LeetCode questions for my milestone
 | ------- |
 | [0175-combine-two-tables](https://github.com/chungyu1108/LeetCode/tree/master/0175-combine-two-tables) |
 | [0183-customers-who-never-order](https://github.com/chungyu1108/LeetCode/tree/master/0183-customers-who-never-order) |
+| [1214-highest-grade-for-each-student](https://github.com/chungyu1108/LeetCode/tree/master/1214-highest-grade-for-each-student) |
 | [1536-customers-who-bought-products-a-and-b-but-not-c](https://github.com/chungyu1108/LeetCode/tree/master/1536-customers-who-bought-products-a-and-b-but-not-c) |
 | [1749-sellers-with-no-sales](https://github.com/chungyu1108/LeetCode/tree/master/1749-sellers-with-no-sales) |
 | [1974-find-customers-with-positive-revenue-this-year](https://github.com/chungyu1108/LeetCode/tree/master/1974-find-customers-with-positive-revenue-this-year) |
