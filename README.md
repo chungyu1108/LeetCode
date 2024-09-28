@@ -154,6 +154,7 @@ A collection of LeetCode questions for my milestone
 | [1749-sellers-with-no-sales](https://github.com/chungyu1108/LeetCode/tree/master/1749-sellers-with-no-sales) |
 | [1974-find-customers-with-positive-revenue-this-year](https://github.com/chungyu1108/LeetCode/tree/master/1974-find-customers-with-positive-revenue-this-year) |
 | [2024-calculate-special-bonus](https://github.com/chungyu1108/LeetCode/tree/master/2024-calculate-special-bonus) |
+| [2041-the-latest-login-in-2020](https://github.com/chungyu1108/LeetCode/tree/master/2041-the-latest-login-in-2020) |
 ## Binary Search
 |  |
 | ------- |
