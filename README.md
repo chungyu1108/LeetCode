@@ -109,6 +109,7 @@ A collection of LeetCode questions for my milestone
 | ------- |
 | [0012-integer-to-roman](https://github.com/chungyu1108/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/chungyu1108/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/chungyu1108/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/chungyu1108/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/chungyu1108/LeetCode/tree/master/0058-length-of-last-word) |
 | [0214-shortest-palindrome](https://github.com/chungyu1108/LeetCode/tree/master/0214-shortest-palindrome) |
@@ -171,4 +172,8 @@ A collection of LeetCode questions for my milestone
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/chungyu1108/LeetCode/tree/master/0729-my-calendar-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/chungyu1108/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
