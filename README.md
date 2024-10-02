@@ -23,6 +23,7 @@ A collection of LeetCode questions for my milestone
 | [0274-h-index](https://github.com/chungyu1108/LeetCode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/chungyu1108/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0729-my-calendar-i](https://github.com/chungyu1108/LeetCode/tree/master/0729-my-calendar-i) |
+| [1256-rank-transform-of-an-array](https://github.com/chungyu1108/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/chungyu1108/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions for my milestone
 | [0013-roman-to-integer](https://github.com/chungyu1108/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/chungyu1108/LeetCode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/chungyu1108/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [1256-rank-transform-of-an-array](https://github.com/chungyu1108/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/chungyu1108/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 ## Two Pointers
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions for my milestone
 | [0088-merge-sorted-array](https://github.com/chungyu1108/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/chungyu1108/LeetCode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/chungyu1108/LeetCode/tree/master/0274-h-index) |
+| [1256-rank-transform-of-an-array](https://github.com/chungyu1108/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
