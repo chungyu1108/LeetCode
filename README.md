@@ -43,6 +43,7 @@ A collection of LeetCode questions for my milestone
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/chungyu1108/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/chungyu1108/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/chungyu1108/LeetCode/tree/master/0189-rotate-array) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/chungyu1108/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Sorting
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions for my milestone
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chungyu1108/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/chungyu1108/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/chungyu1108/LeetCode/tree/master/0135-candy) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/chungyu1108/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Tree
 |  |
 | ------- |
@@ -120,11 +122,13 @@ A collection of LeetCode questions for my milestone
 | [0020-valid-parentheses](https://github.com/chungyu1108/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/chungyu1108/LeetCode/tree/master/0058-length-of-last-word) |
 | [0214-shortest-palindrome](https://github.com/chungyu1108/LeetCode/tree/master/0214-shortest-palindrome) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/chungyu1108/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/chungyu1108/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/chungyu1108/LeetCode/tree/master/0020-valid-parentheses) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/chungyu1108/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/chungyu1108/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Rolling Hash
 |  |
