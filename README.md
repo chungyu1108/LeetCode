@@ -23,6 +23,7 @@ A collection of LeetCode questions for my milestone
 | [0274-h-index](https://github.com/chungyu1108/LeetCode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/chungyu1108/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0729-my-calendar-i](https://github.com/chungyu1108/LeetCode/tree/master/0729-my-calendar-i) |
+| [1002-maximum-width-ramp](https://github.com/chungyu1108/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/chungyu1108/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/chungyu1108/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 ## Hash Table
@@ -128,6 +129,7 @@ A collection of LeetCode questions for my milestone
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/chungyu1108/LeetCode/tree/master/0020-valid-parentheses) |
+| [1002-maximum-width-ramp](https://github.com/chungyu1108/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/chungyu1108/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/chungyu1108/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Rolling Hash
@@ -193,4 +195,8 @@ A collection of LeetCode questions for my milestone
 |  |
 | ------- |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/chungyu1108/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/chungyu1108/LeetCode/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
