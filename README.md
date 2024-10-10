@@ -83,6 +83,7 @@ A collection of LeetCode questions for my milestone
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chungyu1108/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/chungyu1108/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/chungyu1108/LeetCode/tree/master/0135-candy) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/chungyu1108/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/chungyu1108/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Tree
 |  |
@@ -123,12 +124,14 @@ A collection of LeetCode questions for my milestone
 | [0020-valid-parentheses](https://github.com/chungyu1108/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/chungyu1108/LeetCode/tree/master/0058-length-of-last-word) |
 | [0214-shortest-palindrome](https://github.com/chungyu1108/LeetCode/tree/master/0214-shortest-palindrome) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/chungyu1108/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/chungyu1108/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/chungyu1108/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/chungyu1108/LeetCode/tree/master/0020-valid-parentheses) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/chungyu1108/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/chungyu1108/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/chungyu1108/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/chungyu1108/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
