@@ -26,6 +26,7 @@ A collection of LeetCode questions for my milestone
 | [1002-maximum-width-ramp](https://github.com/chungyu1108/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/chungyu1108/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/chungyu1108/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/chungyu1108/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions for my milestone
 | [0088-merge-sorted-array](https://github.com/chungyu1108/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/chungyu1108/LeetCode/tree/master/0189-rotate-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/chungyu1108/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/chungyu1108/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Sorting
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions for my milestone
 | [0169-majority-element](https://github.com/chungyu1108/LeetCode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/chungyu1108/LeetCode/tree/master/0274-h-index) |
 | [1256-rank-transform-of-an-array](https://github.com/chungyu1108/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/chungyu1108/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -85,6 +88,7 @@ A collection of LeetCode questions for my milestone
 | [0135-candy](https://github.com/chungyu1108/LeetCode/tree/master/0135-candy) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/chungyu1108/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/chungyu1108/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/chungyu1108/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Tree
 |  |
 | ------- |
@@ -164,6 +168,7 @@ A collection of LeetCode questions for my milestone
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/chungyu1108/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/chungyu1108/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Database
 |  |
 | ------- |
@@ -202,4 +207,8 @@ A collection of LeetCode questions for my milestone
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/chungyu1108/LeetCode/tree/master/1002-maximum-width-ramp) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/chungyu1108/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 <!---LeetCode Topics End-->
