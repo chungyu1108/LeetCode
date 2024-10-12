@@ -180,6 +180,7 @@ A collection of LeetCode questions for my milestone
 | [1536-customers-who-bought-products-a-and-b-but-not-c](https://github.com/chungyu1108/LeetCode/tree/master/1536-customers-who-bought-products-a-and-b-but-not-c) |
 | [1541-top-travellers](https://github.com/chungyu1108/LeetCode/tree/master/1541-top-travellers) |
 | [1565-evaluate-boolean-expression](https://github.com/chungyu1108/LeetCode/tree/master/1565-evaluate-boolean-expression) |
+| [1718-warehouse-manager](https://github.com/chungyu1108/LeetCode/tree/master/1718-warehouse-manager) |
 | [1749-sellers-with-no-sales](https://github.com/chungyu1108/LeetCode/tree/master/1749-sellers-with-no-sales) |
 | [1974-find-customers-with-positive-revenue-this-year](https://github.com/chungyu1108/LeetCode/tree/master/1974-find-customers-with-positive-revenue-this-year) |
 | [2024-calculate-special-bonus](https://github.com/chungyu1108/LeetCode/tree/master/2024-calculate-special-bonus) |
