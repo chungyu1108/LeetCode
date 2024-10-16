@@ -93,6 +93,7 @@ A collection of LeetCode questions for my milestone
 | [0135-candy](https://github.com/chungyu1108/LeetCode/tree/master/0135-candy) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/chungyu1108/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/chungyu1108/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1304-longest-happy-string](https://github.com/chungyu1108/LeetCode/tree/master/1304-longest-happy-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/chungyu1108/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/chungyu1108/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/chungyu1108/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions for my milestone
 | [0058-length-of-last-word](https://github.com/chungyu1108/LeetCode/tree/master/0058-length-of-last-word) |
 | [0214-shortest-palindrome](https://github.com/chungyu1108/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/chungyu1108/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1304-longest-happy-string](https://github.com/chungyu1108/LeetCode/tree/master/1304-longest-happy-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/chungyu1108/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/chungyu1108/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/chungyu1108/LeetCode/tree/master/3195-separate-black-and-white-balls) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions for my milestone
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/chungyu1108/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1304-longest-happy-string](https://github.com/chungyu1108/LeetCode/tree/master/1304-longest-happy-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/chungyu1108/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/chungyu1108/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Sliding Window
