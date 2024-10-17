@@ -78,6 +78,7 @@ A collection of LeetCode questions for my milestone
 | [0013-roman-to-integer](https://github.com/chungyu1108/LeetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/chungyu1108/LeetCode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/chungyu1108/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0670-maximum-swap](https://github.com/chungyu1108/LeetCode/tree/master/0670-maximum-swap) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions for my milestone
 | [0134-gas-station](https://github.com/chungyu1108/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/chungyu1108/LeetCode/tree/master/0135-candy) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/chungyu1108/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/chungyu1108/LeetCode/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/chungyu1108/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/chungyu1108/LeetCode/tree/master/1304-longest-happy-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/chungyu1108/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
