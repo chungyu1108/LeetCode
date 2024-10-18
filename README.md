@@ -27,6 +27,7 @@ A collection of LeetCode questions for my milestone
 | [1002-maximum-width-ramp](https://github.com/chungyu1108/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/chungyu1108/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/chungyu1108/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/chungyu1108/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/chungyu1108/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/chungyu1108/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Hash Table
@@ -239,4 +240,16 @@ A collection of LeetCode questions for my milestone
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/chungyu1108/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+## Backtracking
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/chungyu1108/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/chungyu1108/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/chungyu1108/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
