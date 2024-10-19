@@ -196,6 +196,7 @@ A collection of LeetCode questions for my milestone
 | ------- |
 | [0175-combine-two-tables](https://github.com/chungyu1108/LeetCode/tree/master/0175-combine-two-tables) |
 | [0183-customers-who-never-order](https://github.com/chungyu1108/LeetCode/tree/master/0183-customers-who-never-order) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/chungyu1108/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0607-sales-person](https://github.com/chungyu1108/LeetCode/tree/master/0607-sales-person) |
 | [1179-game-play-analysis-i](https://github.com/chungyu1108/LeetCode/tree/master/1179-game-play-analysis-i) |
 | [1214-highest-grade-for-each-student](https://github.com/chungyu1108/LeetCode/tree/master/1214-highest-grade-for-each-student) |
