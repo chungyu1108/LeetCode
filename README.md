@@ -30,6 +30,7 @@ A collection of LeetCode questions for my milestone
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/chungyu1108/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/chungyu1108/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/chungyu1108/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2586-longest-square-streak-in-an-array](https://github.com/chungyu1108/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/chungyu1108/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2823-the-knights-tour](https://github.com/chungyu1108/LeetCode/tree/master/2823-the-knights-tour) |
 ## Hash Table
@@ -44,6 +45,7 @@ A collection of LeetCode questions for my milestone
 | [1256-rank-transform-of-an-array](https://github.com/chungyu1108/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/chungyu1108/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/chungyu1108/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2586-longest-square-streak-in-an-array](https://github.com/chungyu1108/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions for my milestone
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/chungyu1108/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/chungyu1108/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/chungyu1108/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2586-longest-square-streak-in-an-array](https://github.com/chungyu1108/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/chungyu1108/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Divide and Conquer
 |  |
@@ -93,6 +96,7 @@ A collection of LeetCode questions for my milestone
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chungyu1108/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chungyu1108/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/chungyu1108/LeetCode/tree/master/0392-is-subsequence) |
+| [2586-longest-square-streak-in-an-array](https://github.com/chungyu1108/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -228,6 +232,7 @@ A collection of LeetCode questions for my milestone
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/chungyu1108/LeetCode/tree/master/0729-my-calendar-i) |
+| [2586-longest-square-streak-in-an-array](https://github.com/chungyu1108/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Segment Tree
 |  |
 | ------- |
