@@ -32,6 +32,7 @@ A collection of LeetCode questions for my milestone
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/chungyu1108/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2586-longest-square-streak-in-an-array](https://github.com/chungyu1108/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/chungyu1108/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/chungyu1108/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2823-the-knights-tour](https://github.com/chungyu1108/LeetCode/tree/master/2823-the-knights-tour) |
 ## Hash Table
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions for my milestone
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chungyu1108/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/chungyu1108/LeetCode/tree/master/0392-is-subsequence) |
 | [2586-longest-square-streak-in-an-array](https://github.com/chungyu1108/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/chungyu1108/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -285,5 +287,6 @@ A collection of LeetCode questions for my milestone
 ## Matrix
 |  |
 | ------- |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/chungyu1108/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2823-the-knights-tour](https://github.com/chungyu1108/LeetCode/tree/master/2823-the-knights-tour) |
 <!---LeetCode Topics End-->
