@@ -163,6 +163,7 @@ A collection of LeetCode questions for my milestone
 | [0067-add-binary](https://github.com/chungyu1108/LeetCode/tree/master/0067-add-binary) |
 | [0214-shortest-palindrome](https://github.com/chungyu1108/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0392-is-subsequence](https://github.com/chungyu1108/LeetCode/tree/master/0392-is-subsequence) |
+| [0812-rotate-string](https://github.com/chungyu1108/LeetCode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/chungyu1108/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/chungyu1108/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/chungyu1108/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions for my milestone
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chungyu1108/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/chungyu1108/LeetCode/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/chungyu1108/LeetCode/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
