@@ -34,6 +34,7 @@ A collection of LeetCode questions for my milestone
 | [2616-maximal-score-after-applying-k-operations](https://github.com/chungyu1108/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/chungyu1108/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2823-the-knights-tour](https://github.com/chungyu1108/LeetCode/tree/master/2823-the-knights-tour) |
+| [3291-find-if-array-can-be-sorted](https://github.com/chungyu1108/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions for my milestone
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/chungyu1108/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2586-longest-square-streak-in-an-array](https://github.com/chungyu1108/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/chungyu1108/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3291-find-if-array-can-be-sorted](https://github.com/chungyu1108/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -285,6 +287,7 @@ A collection of LeetCode questions for my milestone
 | ------- |
 | [0067-add-binary](https://github.com/chungyu1108/LeetCode/tree/master/0067-add-binary) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/chungyu1108/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3291-find-if-array-can-be-sorted](https://github.com/chungyu1108/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Enumeration
 |  |
 | ------- |
