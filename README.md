@@ -28,6 +28,7 @@ A collection of LeetCode questions for my milestone
 | [1256-rank-transform-of-an-array](https://github.com/chungyu1108/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/chungyu1108/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/chungyu1108/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1940-maximum-xor-for-each-query](https://github.com/chungyu1108/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/chungyu1108/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/chungyu1108/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/chungyu1108/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions for my milestone
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/chungyu1108/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1940-maximum-xor-for-each-query](https://github.com/chungyu1108/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/chungyu1108/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Database
 |  |
@@ -289,6 +291,7 @@ A collection of LeetCode questions for my milestone
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/chungyu1108/LeetCode/tree/master/0067-add-binary) |
+| [1940-maximum-xor-for-each-query](https://github.com/chungyu1108/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/chungyu1108/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/chungyu1108/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/chungyu1108/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
