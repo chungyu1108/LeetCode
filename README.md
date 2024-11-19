@@ -32,6 +32,7 @@ A collection of LeetCode questions for my milestone
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/chungyu1108/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/chungyu1108/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/chungyu1108/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/chungyu1108/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/chungyu1108/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/chungyu1108/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/chungyu1108/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions for my milestone
 | [1319-unique-number-of-occurrences](https://github.com/chungyu1108/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/chungyu1108/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/chungyu1108/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/chungyu1108/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/chungyu1108/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Two Pointers
 |  |
@@ -281,6 +283,7 @@ A collection of LeetCode questions for my milestone
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/chungyu1108/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/chungyu1108/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Backtracking
 |  |
 | ------- |
