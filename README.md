@@ -42,6 +42,7 @@ A collection of LeetCode questions for my milestone
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chungyu1108/LeetCode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/chungyu1108/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/chungyu1108/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/chungyu1108/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/chungyu1108/LeetCode/tree/master/0169-majority-element) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions for my milestone
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/chungyu1108/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/chungyu1108/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/chungyu1108/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/chungyu1108/LeetCode/tree/master/0014-longest-common-prefix) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions for my milestone
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/chungyu1108/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/chungyu1108/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/chungyu1108/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Backtracking
